@@ -1,2 +1,2 @@
-# text_mining_juit
+# text_mining
 Analyzing fraudulent activities in the inbox  
